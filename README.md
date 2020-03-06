@@ -1,2 +1,2 @@
-# viktalk
+# English topic vocabuary
 language study
