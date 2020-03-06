@@ -1,0 +1,73 @@
+# main links
+main:
+  - title: "Vocabulary"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: Talk to Kids
+    children:
+      - title: "Chores"
+        url: /kids/chores/
+      - title: "Eating"
+        url: /kids/eating/
+      - title: "Sleeping"
+        url: /kids/sleeping/
+      - title: "Worrying"
+        url: /kids/worrying/
+      - title: "Scolding"
+        url: /kids/scolding/
+      - title: "Orders"
+        url: /kids/orders/
+      - title: "Compliments"
+        url: /kids/compliments/
+      - title: "Toys"
+        url: /kids/toys/
+
+  - title: Travel Skills
+    children:
+      - title: "Hotel"
+        url: /docs/quick-start-guide/
+      - title: "Transport"
+        url: /docs/structure/
+      - title: "Sights"
+        url: /docs/installation/
+      - title: "Restaurant"
+        url: /docs/upgrading/
+
+  - title: Good Habits
+    children:
+      - title: "Exercise"
+        url: /docs/quick-start-guide/
+      - title: "Food"
+        url: /docs/structure/
+      - title: "Mood"
+        url: /docs/installation/
+      - title: "Health"
+        url: /docs/upgrading/
+      - title: "Strive for excellence"
+        url: /docs/upgrading/
+    #
+  #
+  # - title: Health
+  #   children:
+  #     - title: "Hospital"
+  #       url: /en/posts/
+  #     - title: "Common Diseases & Disorders"
+  #       url: /en/posts/
+  #     - title: "Symptoms"
+  #       url: /en/posts/
+  #
+  # - title: Food
+  #   children:
+  #     - title: "Stylesheets"
+  #       url: /en/stylesheets/
